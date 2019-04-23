@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "PGG WITPOL HYUNDAI",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -34,7 +34,17 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 9,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://witpol-auto.eu",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-hyundai-128x39.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "sitemapSwitcher": "on",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
