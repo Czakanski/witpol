@@ -42,7 +42,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-hyundai-128x39.png",
     "noImageResize": "",
     "cookiesAlert": "",
-    "gdpr": "Kontynując zgadzasz się z naszą polityką prywatności<a href='terms.html'> regulaminem</a> oraz <a href='policy.html'>polityką prywatności</a>.",
+    "gdpr": "Kontynując zgadzasz się z naszym <a href='terms.html'> regulaminem</a> oraz <a href='policy.html'>polityką prywatności</a>.",
     "sitemapSwitcher": "on",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-138904748-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-138904748-1');\r\n</script>"
   },
