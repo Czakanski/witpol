@@ -35,16 +35,16 @@
     "uniqCompNum": 9,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
     "robotsSwitcher": "on",
     "siteUrl": "https://witpol-auto.eu",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/logo-hyundai-128x39.png",
     "noImageResize": "",
     "cookiesAlert": "",
-    "gdpr": "",
+    "gdpr": "Kontynując zgadzasz się z naszą polityką prywatności<a href='terms.html'>reguaminem</a> oraz <a href='policy.html'>Polityką prywatności</a>.",
     "sitemapSwitcher": "on",
-    "google-analytics": ""
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-138904748-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-138904748-1');\r\n</script>"
   },
   "pages": {
     "index.html": {
