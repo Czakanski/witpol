@@ -1418,6 +1418,31 @@ body {
     padding-right: 5rem;
   }
 }
+.cid-rotZhCdqH4 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f3f4f6;
+}
+.cid-rotZhCdqH4 .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
+}
+.cid-rotZhCdqH4 .mbr-author-name {
+  font-weight: bold;
+  color: #232;
+}
+.cid-rotZhCdqH4 .mbr-author-desc {
+  color: #232;
+}
+@media (max-width: 991px) {
+  .cid-rotZhCdqH4 .mbr-figure,
+  .cid-rotZhCdqH4 img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+}
 .cid-rnKf79KWZO {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1484,5 +1509,84 @@ body {
   .cid-rnKf79KWZO .footer-lower .social-list {
     -webkit-justify-content: center;
     justify-content: center;
+  }
+}
+.cid-rnKyMDjyTb {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-rnKyMDjyTb .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnKyMDjyTb .container-table {
+  margin: 0 auto;
+}
+.cid-rnKyMDjyTb .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rnKyMDjyTb .dataTables_wrapper {
+  display: block;
+}
+.cid-rnKyMDjyTb .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rnKyMDjyTb .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rnKyMDjyTb table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-rnKyMDjyTb table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rnKyMDjyTb table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-rnKyMDjyTb table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-rnKyMDjyTb table.table {
+  background: #ffffff;
+}
+.cid-rnKyMDjyTb .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rnKyMDjyTb .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rnKyMDjyTb .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rnKyMDjyTb .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-rnKyMDjyTb .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rnKyMDjyTb .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rnKyMDjyTb .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
   }
 }
